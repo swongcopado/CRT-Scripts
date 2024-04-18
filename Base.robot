@@ -5,5 +5,6 @@ Suite Teardown                End suite
 
 
 *** Test Cases ***
-Demo Test Case
+First Salesforce Test Case
     [tags]                    demo
+    Login
