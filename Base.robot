@@ -5,6 +5,5 @@ Suite Teardown                End suite
 
 
 *** Test Cases ***
-Entering A Lead
-    [tags]                    Lead
-    Appstate                  Home
+Demo Test Case
+    [tags]                    demo
