@@ -34,7 +34,7 @@ Creating Developer Edition Trial Org
     DropDown                    Country/Region              ${country}
     DropDown                    State/Province              ${state}
     TypeText                    Postal Code                 ${postalcode}
-    TypeText                    Username                    ${email}.crttrial.${FirstName}
+    TypeText                    Username                    ${email}.${FirstName}.crttrial
     ClickItem                   eula
     ClickText                   Sign me Up
     VerifyText                  Beep boop processing
